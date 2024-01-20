@@ -1,0 +1,10 @@
+package com.api.user.web.model;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "user_admin")
+public class UsersAdmin {
+
+}

@@ -1,0 +1,5 @@
+package com.api.user.web.model;
+
+public class UsersAdmin {
+
+}
